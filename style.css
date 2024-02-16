@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.line{
+    height: 5px;
+    background-color: black;
+    width: 180px;
+    margin:5px auto;
+}
+#jogos{
+    background-color: lightcoral;
+}
